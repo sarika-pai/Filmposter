@@ -5,7 +5,7 @@ import logo from './logo.svg';
 import './App.css';
 
 
-const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=f0b11c96";
+const API_URL = "Add your key for filmposter omdb";
 const App=() => {
 
   const[searchTerm,setSearchTerm]=useState("");
